@@ -124,7 +124,7 @@ More Notebook tutorials can be found in [tutorials](tutorials).
 ```
 
 ## Contact
-If you have any questions, please contact zmliu@mit.edu
+If you have any questions, please contact ME@KEROLES-ANWAR
 
 ## Author's note
 I would like to thank everyone who's interested in KANs. When I designed KANs and wrote codes, I had math & physics examples (which are quite small scale!) in mind, so did not consider much optimization in efficiency or reusability. It's so honored to receive this unwarranted attention, which is way beyond my expectations. So I accept any criticism from people complaining about the efficiency and reusability of the codes, my apology. My only hope is that you find `model.plot()` fun to play with :).
