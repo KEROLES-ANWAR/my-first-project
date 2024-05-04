@@ -1,5 +1,6 @@
 # About MY FIRST PROJECT ON GITHUB 
-
+# KEROLES-ANWAR
+# JUST FOR PRACTICE ONLY
 # Kolmogorov-Arnold Networks (KANs)
 
 This is the GitHub repo for the paper ["KAN: Kolmogorov-Arnold Networks"](https://arxiv.org/abs/2404.19756). Find the documentation [here](https://kindxiaoming.github.io/pykan/). Here's [author's note](https://github.com/KindXiaoming/pykan/blob/master/README.md#authors-note) responding to the current hype of KANs.
